@@ -1,4 +1,4 @@
-# katanasara
+# katanasara (形無更)
 Katanasara Keyboard Layout is for both English and Japanese.
 
 ```
