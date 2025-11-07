@@ -64,3 +64,35 @@ Sft: 0.055%
 Japanese Corpus is from Takuma Oonishi's [Japanese Text](https://note.com/illlilllililill/n/nc099239c5565).  
 English Corpus is Oxelyzer default.  
 [Oxelyzer](https://github.com/O-X-E-Y/oxeylyzer) is here.
+
+## Note, if you prefer English.
+Please use this instead.
+```
+q y u , -  b g h m w  
+a i e o .  k t n s r  
+z x c v '  p d l f j  
+```
+  
+Sfb:  2.553%  
+Dsfb: 8.023%  
+Scissors: 0.764%  
+Lsbs: 1.078%  
+Pinky Ring Bigrams: 1.060%  
+
+Inrolls: 23.062%  
+Outrolls: 19.805%  
+Total Rolls: 42.867%  
+Onehands: 0.674%  
+
+Alternates: 30.826%  
+Alternates (sfs): 9.020%  
+Total Alternates: 39.847%  
+
+Redirects: 2.596%  
+Redirects Sfs: 1.086%  
+Bad Redirects: 0.473%  
+Bad Redirects Sfs: 0.518%  
+Total Redirects: 4.672%  
+
+Bad Sfbs: 1.489%  
+Sft: 0.130%  
