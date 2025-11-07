@@ -1,5 +1,6 @@
 # katanasara (形無更)
 Katanasara Keyboard Layout is for both English and Japanese.
+(Support Spanish little)
 
 ```
 q y u , -  p m h f w  
