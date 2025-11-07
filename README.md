@@ -1,4 +1,4 @@
-# katanasara (形無更)
+# katanasara (形無更,かたなさら)
 Katanasara Keyboard Layout is for both English and Japanese.
 (Support Spanish little)
 
