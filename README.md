@@ -66,7 +66,8 @@ Japanese Corpus is from Takuma Oonishi's [Japanese Text](https://note.com/illlil
 English Corpus is Oxelyzer default.  
 [Oxelyzer](https://github.com/O-X-E-Y/oxeylyzer) is here.
 
-## Note, if you prefer English.
+## Note
+### If you prefer English.
 Please use this instead.
 ```
 q u y , -  b g h m w  
@@ -98,7 +99,7 @@ Total Redirects: 4.365%
 Bad Sfbs: 1.635%  
 Sft: 0.112%  
 
-## Note, if you prefer Japanese.
+### If you prefer Japanese.
 Please use this instead.
 ```
 q u y , -  b g h m w  
