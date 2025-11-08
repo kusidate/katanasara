@@ -69,31 +69,63 @@ English Corpus is Oxelyzer default.
 ## Note, if you prefer English.
 Please use this instead.
 ```
-q y u , -  b g h m w  
-a i e o .  k t n s r  
+q u y , -  b g h m w  
+a e i o .  k t n s r  
 z x c v '  p d l f j  
 ```
   
-Sfb:  2.553%  
-Dsfb: 8.023%  
-Scissors: 0.764%  
-Lsbs: 1.078%  
-Pinky Ring Bigrams: 1.060%  
+Sfb:  2.263%  
+Dsfb: 7.433%  
+Scissors: 1.065%  
+Lsbs: 0.940%  
+Pinky Ring Bigrams: 2.501%  
+  
+Inrolls: 23.185%  
+Outrolls: 20.423%  
+Total Rolls: 43.608%  
+Onehands: 0.853%  
 
-Inrolls: 23.062%  
-Outrolls: 19.805%  
-Total Rolls: 42.867%  
-Onehands: 0.674%  
-
-Alternates: 30.826%  
-Alternates (sfs): 9.020%  
+Alternates: 30.934%  
+Alternates (sfs): 8.913%  
 Total Alternates: 39.847%  
+  
+Redirects: 2.659%  
+Redirects Sfs: 0.933%  
+Bad Redirects: 0.391%  
+Bad Redirects Sfs: 0.381%  
+Total Redirects: 4.365%  
+  
+Bad Sfbs: 1.635%  
+Sft: 0.112%  
 
-Redirects: 2.596%  
-Redirects Sfs: 1.086%  
-Bad Redirects: 0.473%  
-Bad Redirects Sfs: 0.518%  
-Total Redirects: 4.672%  
-
-Bad Sfbs: 1.489%  
-Sft: 0.130%  
+## Note, if you prefer Japanese.
+Please use this instead.
+```
+q u y , -  b g h m w  
+e a i o .  k t n s r  
+z x c v '  p d l f j  
+```
+  
+Sfb:  1.130%  
+Dsfb: 10.248%  
+Scissors: 0.212%  
+Lsbs: 0.688%  
+Pinky Ring Bigrams: 0.465%  
+  
+Inrolls: 14.116%  
+Outrolls: 7.908%  
+Total Rolls: 22.024%  
+Onehands: 0.742%  
+  
+Alternates: 46.933%  
+Alternates (sfs): 19.561%  
+Total Alternates: 66.494%  
+  
+Redirects: 1.206%  
+Redirects Sfs: 0.471%  
+Bad Redirects: 0.128%  
+Bad Redirects Sfs: 0.417%  
+Total Redirects: 2.222%  
+  
+Bad Sfbs: 0.630%  
+Sft: 0.024%  
