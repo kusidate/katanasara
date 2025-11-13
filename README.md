@@ -70,11 +70,11 @@ English Corpus is Oxelyzer default.
 ### If you prefer English.
 Please use this instead.
 ```
-q u y , -  b g h m w  
+q u y , -  j g h m w  
 a e i o .  k t n s r  
-z x c v '  p d l f j  
+z x c v '  p d l f b  
 ```
-  
+
 Sfb:  2.263%  
 Dsfb: 7.433%  
 Scissors: 1.065%  
@@ -85,7 +85,7 @@ Inrolls: 23.185%
 Outrolls: 20.423%  
 Total Rolls: 43.608%  
 Onehands: 0.853%  
-
+  
 Alternates: 30.934%  
 Alternates (sfs): 8.913%  
 Total Alternates: 39.847%  
@@ -102,9 +102,9 @@ Sft: 0.112%
 ### If you prefer Japanese.
 Please use this instead.
 ```
-q u y , -  b g h m w  
+q u y , -  j g h m w  
 e a i o .  k t n s r  
-z x c v '  p d l f j  
+z x c v '  p d l f b  
 ```
   
 Sfb:  1.130%  
