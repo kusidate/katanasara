@@ -75,26 +75,26 @@ a e i o .  k t n s r
 z x c v '  p d l f b  
 ```
 
-Sfb:  2.263%  
-Dsfb: 7.433%  
-Scissors: 1.065%  
-Lsbs: 0.940%  
-Pinky Ring Bigrams: 2.501%  
+Sfb:  2.380%  
+Dsfb: 7.092%  
+Scissors: 0.935%  
+Lsbs: 0.712%  
+Pinky Ring Bigrams: 2.645%  
   
-Inrolls: 23.185%  
-Outrolls: 20.423%  
-Total Rolls: 43.608%  
-Onehands: 0.853%  
+Inrolls: 23.558%  
+Outrolls: 19.853%  
+Total Rolls: 43.411%  
+Onehands: 0.865%  
   
-Alternates: 30.934%  
-Alternates (sfs): 8.913%  
+Alternates: 31.125%  
+Alternates (sfs): 8.722%  
 Total Alternates: 39.847%  
   
-Redirects: 2.659%  
-Redirects Sfs: 0.933%  
-Bad Redirects: 0.391%  
-Bad Redirects Sfs: 0.381%  
-Total Redirects: 4.365%  
+Redirects: 2.648%  
+Redirects Sfs: 0.920%  
+Bad Redirects: 0.401%  
+Bad Redirects Sfs: 0.383%  
+Total Redirects: 4.352%  
   
 Bad Sfbs: 1.635%  
 Sft: 0.112%  
